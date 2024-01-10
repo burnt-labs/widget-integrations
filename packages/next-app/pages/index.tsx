@@ -6,7 +6,7 @@ import styles from "../styles/Home.module.css";
 export default function Home() {
   const config = {
     companyName: "Test Widget",
-    integratorId: "example-swap-widget",
+    integratorId: "xion-swap-widget",
     slippage: 3,
     instantExec: true,
     infiniteApproval: false,
